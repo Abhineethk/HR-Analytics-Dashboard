@@ -185,38 +185,90 @@ Based on the analysis, HR should consider:
 
 ---
 
-## Project Structure
+## Business Impact
 
-HR_Analytics_Project/
+The dashboard enables HR teams to:
 
-├── Dataset/
+- Identify high-risk employee groups.
+- Monitor attrition trends across departments.
+- Improve employee retention strategies.
+- Support workforce planning using data-driven insights.
+- Reduce turnover by targeting key attrition drivers.
 
-├── Python/
+---
 
-├── SQL/
+## Repository Structure
 
-├── Power BI/
+```text
+HR-Analytics-Dashboard/
 
 ├── Dashboard Images/
-
+├── Dataset/
+├── Power BI/
+├── Python/
+├── SQL/
 └── README.md
+```
+
+## Business Questions
+
+This project answers the following business questions:
+
+- Which departments experience the highest employee attrition?
+- Which job roles are most likely to experience attrition?
+- How does overtime affect employee retention?
+- Does salary influence employee attrition?
+- Which age groups are at higher risk?
+- Does business travel contribute to employee turnover?
+- How do job satisfaction and work-life balance affect attrition?
+- Which stages of the employee lifecycle have the highest attrition?
 
 ---
 
 ## Dashboard Preview
 
-Dashboard screenshots are available in the **Dashboard Images** folder:
+### Executive Overview
 
-* Executive Overview
-* Risk Analysis
-* Employee Lifecycle Analysis
-* Tooltip Page
+![Executive Overview](Dashboard%20Images/Executive_Overview.png)
+
+---
+
+### Risk Analysis
+
+![Risk Analysis](Dashboard%20Images/Risk_Analysis.png)
+
+---
+
+### Employee Lifecycle
+
+![Employee Lifecycle](Dashboard%20Images/Employee_Lifecycle.png)
+
+---
+
+### Tooltip Page
+
+![Tooltip](Dashboard%20Images/Tooltip_page.png)
 
 ---
 
 ## Outcome
 
-Built an end-to-end HR Analytics solution using Python, SQL, and Power BI on 1,470 employee records. The project successfully identified major attrition drivers including overtime, compensation level, business travel frequency, job satisfaction, and employee tenure, enabling data-driven recommendations for improving employee retention.
+Built an end-to-end HR Analytics solution integrating Python, SQL, and Power BI into a unified analytics workflow.
+The project identified key attrition drivers—including overtime, salary level, business travel, job satisfaction, work-life balance, and employee tenure—and delivered actionable recommendations to support employee retention and data-driven HR decision-making.
+
+---
+
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- SQL Business Analysis
+- Dashboard Development
+- DAX Measures
+- HR Analytics
+- Data Visualization
+- Business Intelligence
+- Data Storytelling
 
 ---
 
@@ -224,4 +276,10 @@ Built an end-to-end HR Analytics solution using Python, SQL, and Power BI on 1,4
 
 **Abhineeth K**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
+Aspiring Data Analyst
+
+**Skills:** SQL • Excel • Power BI • Python
+
+**GitHub:** https://github.com/Abhineethk
+
+**LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/abhineeth-k-381a21238/)
